@@ -1,0 +1,4 @@
+Command --------( composer require livewire/livewire )
+Command --------( php artisan make:livewire HomeComponent )
+Command --------( composer require laravel/Jetstream )
+Command --------( php artisan jetstream:install livewire )
